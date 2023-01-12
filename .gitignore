@@ -1,0 +1,8 @@
+/data/cache/*
+/data/words/*
+
+zh_msra_models
+zh_onto4_models
+
+__pycache__
+.vscode
